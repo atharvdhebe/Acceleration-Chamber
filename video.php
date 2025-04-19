@@ -10,7 +10,7 @@
     .video-section {
         position: relative;
         overflow: hidden;
-        height: 400px;
+        height: 500px;
         margin-top: 20px;
         margin-bottom: 20px;
     }
@@ -32,12 +32,13 @@
             opacity: 1;
         }
     }
+
 </style>
 
 <body>
     <div class="video-section">
         <video autoplay muted loop>
-            <source src="https://www.w3schools.com/html/movie.mp4" type="video/mp4">
+            <source src="videos/11904061_3840_2160_30fps.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>

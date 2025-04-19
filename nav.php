@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Learning Platform</title>
-    
+
 
     <style>
         body {
@@ -133,19 +133,29 @@
                 <span>Acceleration Chamber</span>
             </div>
             <ul>
-                <li><a href="home.html"><i class="bi bi-house-fill"></i><span class="nav-label">Home</span></a></li>
-                <li><a href="program.html"><i class="bi bi-kanban-fill"></i><span class="nav-label">Program</span></a>
-                </li>
-                <li><a href="notes.html"><i class="bi bi-journal-text"></i><span class="nav-label">Notes</span></a></li>
-                <li><a href="faculty.html"><i class="bi bi-people-fill"></i><span class="nav-label">Faculty</span></a>
-                </li>
-                <li><a href="profile.html"><i class="bi bi-person-circle"></i><span class="nav-label">Profile</span></a>
-                </li>
-                <li><a href="signup.html"><i class="bi bi-person-plus-fill"></i><span class="nav-label">Sign
-                            Up</span></a>
+                <li><a href="home.php"><i class="bi bi-house-fill"></i><span class="nav-label">Home</span></a></li>
+
+                <li class="dropdown">
+                    <a href="program.php"><i class="bi bi-kanban-fill"></i>
+                        <span class="nav-label">Program</span>
+                    </a>
                 </li>
 
+                <li>
+                    <a href="notes.html"><i class="bi bi-journal-text"></i><span class="nav-label">Notes</span></a>
+                </li>
+                <li>
+                    <a href="faculty.html"><i class="bi bi-people-fill"></i><span class="nav-label">Faculty</span></a>
+                </li>
+                <li>
+                    <a href="profile.html"><i class="bi bi-person-circle"></i><span class="nav-label">Profile</span></a>
+                </li>
+                <li>
+                    <a href="signup.html"><i class="bi bi-person-plus-fill"></i><span
+                            class="nav-label">SignUp</span></a>
+                </li>
             </ul>
+
         </div>
     </div>
 </body>

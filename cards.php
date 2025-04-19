@@ -84,7 +84,7 @@
             <h2>What We Have</h2>
         </center>
         <div class="row">
-            <!-- Card 1 -->
+           
             <div class="col-md-4">
                 <div class="card">
                     <img src="images/web.png" class="card-img-top" alt="Course Image" />
@@ -97,7 +97,7 @@
                 </div>
             </div>
 
-            <!-- Card 2 -->
+            
             <div class="col-md-4">
                 <div class="card">
                     <img src="images/faculty.png" class="card-img-top" alt="Instructor Image" />
@@ -110,7 +110,7 @@
                 </div>
             </div>
 
-            <!-- Card 3 -->
+            
             <div class="col-md-4">
                 <div class="card">
                     <img src="images/students.png" class="card-img-top" alt="Student Image" />
@@ -124,10 +124,10 @@
             </div>
         </div>
 
-        <!-- Nicely aligned Show More Button -->
-        <div class="show-more-wrapper">
+      
+        <!-- <div class="show-more-wrapper">
             <a href="all-courses.html" class="ai-button">🚀 Show More Courses</a>
-        </div>
+        </div> -->
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>

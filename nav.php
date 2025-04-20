@@ -214,10 +214,11 @@
 
   <div class="top-navbar">
     <div class="top-navbar-nav">
-      <div class="curve"><a href="index.html">About Us</a></div>
-      <div class="curve"><a href="about.html">FAQ'S</a></div>
-      <div class="curve"><a href="services.html">Services</a></div>
-      <div class="curve"><a href="contact.html">Contact</a></div>
+      <div class="curve"><a href="about_us.php">About Us</a></div>
+      <div class="curve"><a href="FAQ's.php">FAQ'S</a></div>
+      <div class="curve"><a href="services.php">Services</a></div>
+      <div class="curve"><a href="privacy.php">Privacy</a></div>
+      <div class="curve"><a href="contactUs.php">Contact</a></div>
     </div>
 
     <div class="nav-bottom">

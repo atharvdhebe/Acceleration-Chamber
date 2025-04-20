@@ -31,7 +31,7 @@
     }
 
     .footer-logo {
-        margin-top: 10px;
+        margin-top: 20px;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -49,6 +49,7 @@
     }
 
     .footer-logo span {
+        text-align: center;
         color: white;
         font-size: 1.3rem;
         font-weight: bold;
@@ -73,6 +74,7 @@
     }
 
     .social-media li {
+        
         display: flex;
         align-items: center;
         margin-bottom: 10px;
@@ -209,19 +211,21 @@
                         
                     </li>
             </div>
-            <div class="unknown">
-
-            </div>
+           
             <div class="contact-info">
                 <h3>Contact Info</h3>
                 <ul>
                     <li>
                         <span>E-mail :</span>
-                        <p><a href="accelerationchamber@gmail.com"></a></p>
+                        <p><a href="accelerationchamber@gmail.com">accelerationchamber@gmail.com</a></p>
                     </li>
                     <li>
-                        <span>Contact : </span>
+                        <span>Contact : </span><br>
                         <span>+91 9552724103</span>
+                    </li>
+                    <li>
+                        <span>Location : </span><br>
+                        <span>Pune</span>
                     </li>
                 </ul>
             </div>

@@ -245,7 +245,7 @@
         </li>
 
         <li><a href="notes.html"><i class="bi bi-journal-text"></i><span class="nav-label">Notes</span></a></li>
-        <li><a href="faculty.html"><i class="bi bi-people-fill"></i><span class="nav-label">Faculty</span></a></li>
+        <li><a href="faculty.php"><i class="bi bi-people-fill"></i><span class="nav-label">Faculty</span></a></li>
         <li><a href="profile.html"><i class="bi bi-person-circle"></i><span class="nav-label">Profile</span></a></li>
         <li><a href="signup.html"><i class="bi bi-person-plus-fill"></i><span class="nav-label">SignUp</span></a></li>
       </ul>

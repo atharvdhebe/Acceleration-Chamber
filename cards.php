@@ -105,7 +105,7 @@
                         <h5 class="card-title">Expert Faculty</h5>
                         <p class="card-text">Expert in Data Science with over 15 years of experience in teaching and
                             research.</p>
-                        <a href="instructor-profile.html" class="btn btn-info">View Profile</a>
+                        <a href="faculty.php" class="btn btn-info">View Profile</a>
                     </div>
                 </div>
             </div>
@@ -118,7 +118,7 @@
                         <h5 class="card-title">Happy Learners</h5>
                         <p class="card-text">"This platform helped me gain practical skills in Python and data science."
                         </p>
-                        <a href="student-testimonials.html" class="btn btn-warning">See More</a>
+                        <a href="testimonials.php" class="btn btn-warning">See More</a>
                     </div>
                 </div>
             </div>

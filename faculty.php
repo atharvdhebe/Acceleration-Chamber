@@ -84,7 +84,7 @@
         <div class="faculty-grid">
 
             <div class="faculty-card">
-                <img src="" alt="Dr. Aisha Patel">
+                <img src="images/git_profile.jpg" alt="Dr. Aisha Patel">
                 <h3>MR.XYZ</h3>
                 <p>Subject: Data Structures</p>
                 <p>Qualification: Ph.D. in Computer Science</p>

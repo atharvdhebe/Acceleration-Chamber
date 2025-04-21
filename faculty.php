@@ -141,7 +141,7 @@
 
             <!-- Add more faculty cards here -->
 
-        </div>
+        </div> 
     </section>
 
 

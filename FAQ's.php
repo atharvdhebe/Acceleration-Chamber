@@ -48,7 +48,7 @@
     }
 
     .faq-question {
-        background-color:rgb(41, 91, 61);
+        background-color: #2a2a40;
         color: white;
         font-size: 18px;
         padding: 15px;
@@ -61,7 +61,7 @@
     }
 
     .faq-question:hover {
-        background-color:  #2c6b3f;;
+        background-color: #1e1e2f;;
     }
 
     /* FAQ Answer Styling (Initially Hidden) */

@@ -16,7 +16,7 @@
 
     .testimonial-section h2 {
         font-size: 2rem;
-        color: #3b2f2f;
+        color:  #1e1e2f;
         margin-bottom: 40px;
     }
 
@@ -29,7 +29,7 @@
 
     .testimonial-card {
         background-color: #fff;
-        border-left: 6px solid #d9b77b;
+        border-left: 6px solid rgb(48, 163, 144);
         box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
         padding: 25px 20px;
         max-width: 320px;

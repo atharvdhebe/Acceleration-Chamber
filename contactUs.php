@@ -43,7 +43,7 @@
 
     .contact-info i {
       font-size: 1.3rem;
-      color: #2c6b3f;
+      color: #2a2a40;
       margin-right: 10px;
     }
 
@@ -68,14 +68,14 @@
 
     .contact-form .btn {
       margin-top: 10px;
-      background-color:#1c3a28;
+      background-color:#2a2a40;
       color: #fff;
       font-weight: bold;
       transition: background-color 0.3s;
     }
 
     .contact-form .btn:hover {
-      background-color: #2c6b3f;
+      background-color:  #1e1e2f;
     }
 
     @media (max-width: 768px) {
@@ -99,7 +99,7 @@
 
       <div class="contact-info">
         <p><i class="bi bi-geo-alt-fill"></i> Deccan Gymkhana, Pune</p>
-        <p><i class="bi bi-envelope-fill"></i> acceleratinchamber@gmail.com</p>
+        <p><i class="bi bi-envelope-fill"></i> accelerationchamber@gmail.com</p>
         <p><i class="bi bi-telephone-fill"></i> +91 95527 24103</p>
       </div>
     </div>

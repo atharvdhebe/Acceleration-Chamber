@@ -38,7 +38,8 @@
         flex-direction: column;
         justify-content: space-between;
         text-align: left;
-        border-left: 6px solid #4CAF50;
+        border-left: 6px solid rgb(48, 163, 144);
+        border-top: 6px solid #1e1e2f;   
     }
 
     .program-card:hover {
@@ -63,7 +64,7 @@
     .program-btn {
         align-self: flex-start;
         padding: 10px 20px;
-        background-color: #4CAF50;
+        background-color:  #1e1e2f;
         color: white;
         text-decoration: none;
         border-radius: 25px;
@@ -74,7 +75,7 @@
     }
 
     .program-btn:hover {
-        background-color: #388e3c;
+        color: rgb(48, 163, 144);
         transform: translateY(-2px);
     }
 </style>

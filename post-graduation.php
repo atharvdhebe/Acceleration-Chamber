@@ -89,13 +89,13 @@
                 <h2>PGDIB</h2>
                 <p>PGDIB (Post Graduate Diploma in International Business) equips students with essential knowledge of
                     global trade, international marketing, and cross-border business strategies.</p>
-                <a href="pgdib.php" class="program-btn">Learn More</a>
+                <a href="PGDBDIB.php" class="program-btn">Learn More</a>
             </div>
             <div class="program-card">
                 <h2>PGDBDA</h2>
                 <p>PGDBDA (Post Graduate Diploma in Business Data Analytics) empowers students with skills in data
                     analysis, statistical modeling, and business intelligence to drive data-driven decisions.</p>
-                <a href="pgdbda.php" class="program-btn">Learn More</a>
+                <a href="PGDBDA.php" class="program-btn">Learn More</a>
             </div>
         </div>
         </div>

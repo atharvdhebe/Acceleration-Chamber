@@ -27,7 +27,7 @@
     grid-template-columns: repeat(auto-fit,minmax(260px,1fr));
     gap:30px;
     max-width:1200px;
-    margin: 0 auto
+    margin: 0 auto;
 }
 
 .program-card{
@@ -51,7 +51,6 @@
 
 .program-card h2{
     font-size: 1.6rem;
-  
     margin-bottom: 15px;
 }
 
@@ -90,37 +89,37 @@
                 <h2>BBA</h2>
                 <p>Explore the world of business, management, and leadership with our BBA course designed for future
                     professionals.</p>
-                <a href="bba.php" class="program-btn">Learn More</a>
+                <a href="BBA.php" class="program-btn">Learn More</a>
             </div>
             <div class="program-card">
                 <h2>BBA-CA</h2>
                 <p>Master the fundamentals of computer applications, software development, and IT with our BCA program.
                 </p>
-                <a href="bca.php" class="program-btn">Learn More</a>
+                <a href="BBACA.php" class="program-btn">Learn More</a>
             </div>
             <div class="program-card">
                 <h2>BBA-IB</h2>
                 <p>Dive into the global business landscape with our BBA in International Business, focusing on global
                     trade and commerce.</p>
-                <a href="bbaib.php" class="program-btn">Learn More</a>
+                <a href="BBAIB.php" class="program-btn">Learn More</a>
             </div>
             <div class="program-card">
                 <h2>BMS</h2>
                 <p>BMS is a dynamic undergraduate program that builds strong foundations in business management,
                     leadership, and organizational strategy.</p>
-                <a href="bms.php" class="program-btn">Learn More</a>
+                <a href="BMS.php" class="program-btn">Learn More</a>
             </div>
             <div class="program-card">
                 <h2>B.COM HONOURS</h2>
                 <p>B.Com (Honours) offers in-depth knowledge of commerce, accounting, finance, and economics to prepare
                     students for the corporate world.</p>
-                <a href="honours.php" class="program-btn">Learn More</a>
+                <a href="B_comHon.php" class="program-btn">Learn More</a>
             </div>
             <div class="program-card">
                 <h2>B.COM FINTECH</h2>
                 <p>B.Com in FinTech combines core commerce education with cutting-edge financial technologies like
                     blockchain, digital payments, and data analytics.</p>
-                <a href="fintech.php" class="program-btn">Learn More</a>
+                <a href="B_comFin.php" class="program-btn">Learn More</a>
             </div>
     </section>
 

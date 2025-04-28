@@ -47,7 +47,7 @@
       justify-content: center;
       height: 50px;
       width: 100px;
-      border-top: 2px solid #00c9a7;
+      border-top: 1px solid #00c9a7;
       border-radius: 50% 50% 0 0;
       transition: transform 0.3s ease, border 0.3s ease;
     }
